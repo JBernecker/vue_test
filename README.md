@@ -1,4 +1,10 @@
 # teste_aula_vue
+| Name | RA |
+|------|----|
+|Johanna Bernecker|190737|
+
+## This is the final result of the project:
+![finalResult]()
 
 ## Project setup
 ```
