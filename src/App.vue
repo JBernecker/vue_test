@@ -1,18 +1,30 @@
 <template>
-  <v-app>
-    <v-main>
-      <router-view/>
-    </v-main>
-  </v-app>
+  <div>
+    <VSystemBar/>
+    <ToolBar/>
+    <NavigationDrawer/>
+    <router-view/>
+    <Footer/>
+    <BottomNavigation/>
+  </div>
 </template>
 
 <script>
+  import VSystemBar from '@/components/VSystemBar'
+  import ToolBar from '@/components/ToolBar'
+  import NavigationDrawer from '@/components/NavigationDrawer'
+  import Footer from '@/components/Footer'
+  import BottomNavigation from '@/components/BottomNavigation'
 
-export default {
-  name: 'App',
+  export default {
+    name: 'Home',
 
-  data: () => ({
-    //
-  }),
-};
+    components: {
+      VSystemBar,
+      ToolBar,
+      NavigationDrawer,
+      Footer,
+      BottomNavigation,
+    },
+  }
 </script>
