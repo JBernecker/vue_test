@@ -4,7 +4,8 @@
 |Johanna Bernecker|190737|
 
 ## This is the final result of the project:
-![image](https://user-images.githubusercontent.com/70805406/143789218-c9528c70-2cd4-4801-9967-589e7794c14e.png)
+![image](https://user-images.githubusercontent.com/70805406/144771480-daa6f1bc-bb46-4747-a19e-cc7bda6de52e.png)
+
 
 
 
