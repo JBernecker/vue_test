@@ -1,7 +1,7 @@
 <template>
-  <v-system-bar app>
-    <v-row v-row align="center" justify="center">
-      <span>v-system-bar</span>
-    </v-row>
+  <v-system-bar text-center app>
+     <v-col class="text-center">
+     <span>V-System-bar</span>
+     </v-col> 
   </v-system-bar>
 </template>
